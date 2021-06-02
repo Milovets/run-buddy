@@ -221,11 +221,11 @@ footer h2 {
     display: inline;
     color: #024e76;
     font-size: 30px;
-    margin 0; 
+    margin: 0; 
 }
 footer div {
     float: right;
-    line-height: 1.5
+    line-height: 1.5;
     text-align: right;
 }
 footer a {
